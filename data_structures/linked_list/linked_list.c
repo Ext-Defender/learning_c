@@ -1,3 +1,9 @@
+// Linked List
+/*
+TODO Cleanup code
+TODO implement searching
+TODO pass data to addNode funcs and instantiate struct there
+ */
 #include <stdio.h>
 #include <stdint.h>
 
